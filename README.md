@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Saira Imran! 👋
 
-<!--
-**saira-imran/saira-imran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **BS Mathematics graduate** from Lahore, Pakistan, combining strong theoretical foundations in numerical computing with practical applications in data tracking, analytics, and digital design. 
 
-Here are some ideas to get you started:
+### 🛠️ Core Skills & Tools
+- **Mathematical Computing:** MATLAB, Mathematica, Statistical Reasoning, Numerical Methods
+- **Programming:** C++, Dev C, LaTeX
+- **Administration & Design:** Virtual Assistance Frameworks, MS Excel (Data Modeling), Canva, Graphics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Key Highlights
+- **International Exposure:** Modeled demographic metrics and analyzed systemic disparities during the *International Mathematical Hackathon (IMM)*.
+- **Leadership:** Spearheaded curriculum alignment and student performance analysis as an academic *Subject Head*.
+
+💬 Feel free to explore my repositories or reach out via email at sairaimran499@gmail.com!
